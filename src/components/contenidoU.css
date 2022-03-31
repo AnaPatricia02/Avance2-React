@@ -1,0 +1,15 @@
+
+.list-group  {
+    position:relative;
+    padding-left:900px;
+  
+ }
+
+ .form2{
+    position: absolute;
+    padding-right: 100px;
+    width: 700px;
+    top: 300px;   
+    
+ }
+
